@@ -1,0 +1,6 @@
+INSERT INTO funcionario (cargo, salario, nome) VALUES   
+('Gerente', 8000.00, 'João Silva'),  
+('Vendedor', 3500.00, 'Maria Souza'),  
+('Estoquista', 2800.00, 'Pedro Oliveira'),  
+('Atendente', 2200.00, 'Ana Pereira'),  
+('Supervisor', 5000.00, 'Lucas Fernandes');

@@ -1,0 +1,6 @@
+INSERT INTO produto (nome, preco, estoque, estoque_minimo, id_fornecedor) VALUES   
+('Produto A', 50.00, 100, 20, 1),  
+('Produto B', 75.00, 50, 10, 2),  
+('Produto C', 30.00, 30, 15, 3),  
+('Produto D', 100.00, 5, 5, 4),  
+('Produto E', 40.00, 120, 25, 5);

@@ -1,0 +1,6 @@
+CREATE TABLE carrinho (  
+    id_carrinho SERIAL PRIMARY KEY,  
+    id_pedido INTEGER,  
+    id_produto INTEGER,  
+    quantidade INTEGER  
+);

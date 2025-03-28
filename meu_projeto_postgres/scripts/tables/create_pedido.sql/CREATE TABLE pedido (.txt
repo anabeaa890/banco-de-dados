@@ -1,0 +1,7 @@
+CREATE TABLE pedido (  
+    id_pedido SERIAL PRIMARY KEY,  
+    id_cliente INTEGER,  
+    id_funcionario INTEGER,  
+    data DATE,  
+    valor_total NUMERIC(10, 2)  
+);

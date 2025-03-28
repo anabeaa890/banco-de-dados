@@ -1,0 +1,6 @@
+CREATE TABLE cliente (  
+    id_cliente SERIAL PRIMARY KEY,  
+    nome VARCHAR(100),  
+    numero_documento VARCHAR(20),  
+    telefone VARCHAR(20)  
+);

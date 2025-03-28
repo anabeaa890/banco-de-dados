@@ -1,0 +1,6 @@
+INSERT INTO cliente (nome, numero_documento, telefone) VALUES   
+('João Silva', '12345678901', '(11) 98765-4321'),  
+('Maria Souza', '98765432109', '(21) 12345-6789'),  
+('Pedro Oliveira', '45678901234', '(31) 98765-0987'),  
+('Ana Pereira', '67890123456', '(41) 12345-8765'),  
+('Lucas Fernandes', '09876543210', '(51) 98765-2109');
